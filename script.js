@@ -21,9 +21,4 @@ const randomizeCharacter = () => {
     return finalCharacter.join("\n")
 }
 
-
-
-
-module.export = randomizeCharacter
-
 console.log(randomizeCharacter())
